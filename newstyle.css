@@ -1,0 +1,44 @@
+body {
+    background-color: #25b425;
+    color: rgb(0, 0, 0);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #28a028;
+}
+
+.profile-picture {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-picture img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.info {
+    line-height: 1.8;
+}
+
+.info a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.info a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
